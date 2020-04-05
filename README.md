@@ -1,2 +1,0 @@
-# whitegivers
-## the whitegive
