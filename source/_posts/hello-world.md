@@ -18,7 +18,4 @@ title: 如何成为一个白给
 14. 要有一只巨大的玩偶，每天睡觉的时候因为太占地方要把它扔下床。
 15. 拥有 Wallpaper Engine 的「Pest」成就。 
 16. 多看 whitegivers.com。
-
-16. 多看 whitegivers.com。
-16. 多看 whitegivers.com。
-16. 多看 whitegivers.com。
+17. 必不会白给。
