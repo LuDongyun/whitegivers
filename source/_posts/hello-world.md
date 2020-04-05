@@ -19,3 +19,4 @@ title: 如何成为一个白给
 15. 拥有 Wallpaper Engine 的「Pest」成就。 
 16. 多看 whitegivers.com。
 17. 必不会白给。
+18. 的确。
