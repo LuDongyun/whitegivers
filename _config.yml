@@ -99,5 +99,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@34.92.174.108:/home/git/hexo.git
+  repo: https://github.com/LuDongyun/whitegivers_published.git
   branch: master
