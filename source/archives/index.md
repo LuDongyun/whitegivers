@@ -1,4 +1,4 @@
 ---
-title: archives
+title: Archives
 date: 2020-04-06 20:21:26
 ---
