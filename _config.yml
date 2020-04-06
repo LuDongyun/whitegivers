@@ -99,3 +99,12 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+#webhook
+webhook:
+  port: 5678
+  repository:
+    source:
+      url: 'https://github.com/LuDongyun/whitegivers.git'
+      sub: '/'
+      secret: '12345678'
