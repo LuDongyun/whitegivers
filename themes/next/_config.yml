@@ -550,12 +550,12 @@ quicklink:
 # ---------------------------------------------------------------
 
 # Multiple Comment System Support
-comments:
+comments: 
   # Available values: tabs | buttons
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: changyan | disqus | disqusjs | gitalk | livere | valine
-  active:
+  active: true
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -977,10 +977,3 @@ vendors:
 css: css
 js: js
 images: images
-
-# --------------------------------------------------------------
-# background settings
-# --------------------------------------------------------------
-# add canvas-nest effect
-# see detail from https://github.com/hustcc/canvas-nest.js
-canvas_nest: true
