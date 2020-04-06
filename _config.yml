@@ -23,12 +23,12 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
+public_dir: /www/wwwroot/www.whitegivers.com
+tag_dir: /www/wwwroot/www.whitegivers.com/tags
+archive_dir: /www/wwwroot/www.whitegivers.com/archives
+category_dir: /www/wwwroot/www.whitegivers.com/categories
+code_dir: /www/wwwroot/www.whitegivers.com/downloads/code
+i18n_dir: :/www/wwwroot/www.whitegivers.com/lang
 skip_render:
 
 # Writing
@@ -98,6 +98,4 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:LuDongyun/whitegivers_published.git
-  branch: master
+  type: ''
