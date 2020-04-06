@@ -17,5 +17,4 @@ date: 2020/4/5
 12. 自行车不必上锁，反正最后都会找不到的。
 13. 要有一只巨大的玩偶，每天睡觉的时候因为太占地方要把它扔下床。
 14. 拥有 Wallpaper Engine 的「Pest」成就。 
-15. 多看 [whitegivers.com](https://whitegivers.com)。
 
