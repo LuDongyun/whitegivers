@@ -95,7 +95,7 @@ creative_commons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Mist
+scheme: Muse
 #scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
@@ -141,14 +141,14 @@ sidebar:
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
-  width: 250
+  #width: 300
 
   # Sidebar Display (only for Muse | Mist), available values:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically.
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  totally remove sidebar including sidebar toggle.
-  display: hide
+  display: always
 
   # Sidebar padding in pixels.
   padding: 18
@@ -160,9 +160,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/apple-touch-icon-next.png
+  url: #/images/avatar.gif
   # If true, the avatar will be dispalyed in circle.
-  rounded: true
+  rounded: false
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -175,7 +175,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/LuDongyun/whitegivers || fab fa-github
-  RSS: atom.xml || fa fa-rss
+  RSS: https://whitegivers.com/atom.xml || fa fa-rss
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
