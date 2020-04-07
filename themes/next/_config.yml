@@ -552,7 +552,7 @@ quicklink:
 # ---------------------------------------------------------------
 
 # Multiple Comment System Support
-comments: 
+comments:
   # Available values: tabs | buttons
   style: tabs
   # Choose a comment system to be displayed by default.
@@ -624,7 +624,7 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   github_id: LuDongyun
   repo: whitegiverscomment
   client_id: 57b7696aa51449e68031
