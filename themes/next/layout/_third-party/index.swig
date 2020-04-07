@@ -1,5 +1,5 @@
 {% include 'baidu-push.swig' %}
-
+{% include 'gitalk.swig' %}
 {% include 'rating.swig' %}
 
 {%- if theme.algolia_search.enable %}
