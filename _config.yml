@@ -23,7 +23,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: /www/wwwroot/www.whitegivers.com
+public_dir: /published
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
