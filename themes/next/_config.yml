@@ -176,6 +176,10 @@ site_state: true
 social:
   GitHub: https://github.com/LuDongyun/whitegivers || fab fa-github
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  RSS: https://whitegivers.com/atom.xml || fa fa-rss
+>>>>>>> parent of 357a349... RSS Added
 =======
   RSS: https://whitegivers.com/atom.xml || fa fa-rss
 >>>>>>> parent of 357a349... RSS Added
