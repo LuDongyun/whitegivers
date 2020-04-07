@@ -95,7 +95,7 @@ creative_commons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+scheme: Mist
 #scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
@@ -141,14 +141,14 @@ sidebar:
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
-  #width: 300
+  width: 250
 
   # Sidebar Display (only for Muse | Mist), available values:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically.
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  totally remove sidebar including sidebar toggle.
-  display: always
+  display: hide
 
   # Sidebar padding in pixels.
   padding: 18
@@ -160,9 +160,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /images/apple-touch-icon-next.png
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -175,14 +175,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/LuDongyun/whitegivers || fab fa-github
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  RSS: https://whitegivers.com/atom.xml || fa fa-rss
->>>>>>> parent of 357a349... RSS Added
-=======
-  RSS: https://whitegivers.com/atom.xml || fa fa-rss
->>>>>>> parent of 357a349... RSS Added
+  RSS: atom.xml || fa fa-rss
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -633,16 +626,16 @@ livere_uid: # <your_uid>
 # For more information: https://gitalk.github.io, https://github.com/gitalk/gitalk
 gitalk:
   enable: false
-  github_id: LuDongyun
-  repo: whitegiverscomment
-  client_id: 57b7696aa51449e68031
-  client_secret: fef9605bc03cb84b0d9943594d80d6b4154131ee
-  admin_user: LuDongyun
+  github_id: # GitHub repo owner
+  repo: # Repository name to store issues
+  client_id: # GitHub Application Client ID
+  client_secret: # GitHub Application Client Secret
+  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
-  language: zh-CN
+  language:
 
 # ---------------------------------------------------------------
 # Post Widgets & Content Sharing Services
