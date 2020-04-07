@@ -174,7 +174,7 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/LuDongyun/whitegivers
+  #GitHub: https://github.com/yourname || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -189,8 +189,6 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
-  GitHub: github
-
 
 # Blog rolls
 links_settings:
@@ -275,7 +273,7 @@ follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
   #WeChat: /images/wechat_channel.jpg || fab fa-weixin
-  RSS: /atom.xml || fab fa-rss
+  #RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
