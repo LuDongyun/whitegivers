@@ -174,7 +174,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/LuDongyun/whitegivers || fab fa-github
+  GitHub: https://github.com/LuDongyun/whitegivers || fa fa-github
+  RSS: https://whitegivers.com/atom.xml || fa fa-rss
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -552,7 +553,7 @@ quicklink:
 # ---------------------------------------------------------------
 
 # Multiple Comment System Support
-comments: 
+comments:
   # Available values: tabs | buttons
   style: tabs
   # Choose a comment system to be displayed by default.
