@@ -91,7 +91,9 @@ exclude:
 ignore:
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
+plugin:
+  - hexo-generator-feed
+
 feed:
   type: atom
   path: atom.xml
