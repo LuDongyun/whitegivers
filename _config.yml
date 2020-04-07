@@ -109,3 +109,7 @@ feed:
   content:
   content_limit:
   content_limit_delim: " "
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
