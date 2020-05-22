@@ -5,7 +5,7 @@ tags:
 ---
 
 # Whitegive Poems
-*Rule: write a poem that expresses whitegiveness, without any direct occurrence the word "whitegive".*
+> Rule: write a poem that expresses whitegiveness, without any direct occurrence of the word "whitegive".
 ## One
 Monday morning calls upon
 a stack of assignments in submission.
