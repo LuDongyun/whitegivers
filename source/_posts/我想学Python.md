@@ -1,6 +1,6 @@
 ---
 title: 我想学 Python
-date: 2020/4/7
+date: 2020/10/3
 tags:
 	- Python
 ---
